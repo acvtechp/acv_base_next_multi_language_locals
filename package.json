@@ -1,0 +1,9 @@
+{
+  "name": "@acvtech5b9/acv-base-next-multi-language-locals",
+  "version": "1.0.0",
+  "description": "Shared i18n locales for ACV BASE multi language locals",
+  "license": "UNLICENSED",
+  "private": false,
+  "files": ["locales"],
+  "sideEffects": false
+}
